@@ -1,5 +1,5 @@
 # web-development-project
-# Project Title
+# Capybara Project Title
 Capybara
 
 ## Description
