@@ -15,5 +15,5 @@ Welcome to my web development portfolio! This website showcases my journey as a 
 
 ## Links to My Pages:
 - [Home Page](https://<your-username>.github.io/web-development-project/)
-- [About Me Page](about.html)
-- [Contact Me Page](contact.html)
+- [About Page](about.html)
+- [Contact Page](contact.html)
