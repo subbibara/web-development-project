@@ -12,8 +12,3 @@ Welcome to my web development portfolio! This website showcases my journey as a 
 - UI/UX Design and Development Projects
 
 ![Portfolio Image](https://ih1.redbubble.net/image.4981644736.9937/pp,504x498-pad,600x600,f8f8f8.u2.jpg)
-
-## Installation Instructions
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/<your-username>/web-development-project.git
